@@ -34,11 +34,6 @@ Welcome to the Movie Management API! This project demonstrates a simple API for 
 - To update a movie's details: `PUT /movies/{id}`
 - To delete a movie: `DELETE /movies/{id}`
 
-## Example Request (cURL)
-
-- Add a new movie:
-```bash
-curl -X POST -H "Content-Type: application/json" -d '{"isbn": "123456", "title": "New Movie", "director": {"firstname": "Jane", "lastname": "Doe"}}' http://localhost:8000/movies
-
 ## Credits
 - I built this project following Akhil Sharma tutorial- https://github.com/AkhilSharma90 .
+
