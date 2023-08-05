@@ -21,8 +21,8 @@ Welcome to the Movie Management API! This project demonstrates a simple API for 
 ## Getting Started
 
 1. Install Go on your machine if not already installed.
-2. Clone this repository: `git clone https://github.com/your-username/movie-management-api.git`
-3. Navigate to the project directory: `cd movie-management-api`
+2. Clone this repository: `git clone https://github.com/your-username/go-movies-crud.git`
+3. Navigate to the project directory: `cd go-movies-crud`
 4. Run the server: `go run main.go`
 5. Access the API at: `http://localhost:8000`
 
